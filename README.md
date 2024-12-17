@@ -1,10 +1,10 @@
 HBS - LROBLES
 ===
-Abstract:xxx
-## Papar Information
+Descripcion: Prueba tecnica para el cargo de FullStackDeveloper
+## Informacion
 - Title:  `HBS - FullStackDeveloper`
 - Authors:  `Lhyan Robles`
 
-## Install & Dependence
+## Stack
 - django
 - reactjs
