@@ -8,3 +8,14 @@ Descripcion: Prueba tecnica para el cargo de FullStackDeveloper
 ## Stack
 - django
 - reactjs
+
+## Instalar BackEnd
+- Ingresar a `Django`
+- Ejecutar `python manage.py runserver`
+
+## Instalar FrontEnd
+- Instalar BackEnd
+- Ingresar a `React/taskmanager`
+- Ejecutar `npm install`
+- Ejecutar `npm start`
+- Usar
